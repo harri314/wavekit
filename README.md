@@ -13,10 +13,6 @@ is distributed this README file is included in the distribution and
 the original author is credited in each program file.
 
 
-The documentation is available on-line at
-
-	http://www.math.rutgers.edu/~ojanen/wavekit/
-
 System requirements: Matlab 5.1 or later and a C-compiler.
 
 Quick installation instructions (refer to the above documentation for
